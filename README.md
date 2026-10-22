@@ -1,6 +1,6 @@
 # Emanuel Andrade — Portfólio
 
-Estudante do 3º semestre de Engenharia de Software na Estácio, em Fortaleza, CE.
+Estudante de Engenharia de Software, em Fortaleza, CE.
 
 Site: https://emanuelb7-andra.github.io/
 
